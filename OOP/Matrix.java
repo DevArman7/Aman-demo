@@ -1,6 +1,7 @@
+package OOP;
 import java.util.*;
 
-// Perform matrix addition,subtraction,multiplication and transpose and make it menu driven
+/*  Perform matrix addition,subtraction,multiplication and transpose and make it menu driven */
 public class Matrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

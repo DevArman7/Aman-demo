@@ -1,5 +1,10 @@
+package OOP;
 import java.util.*;
-
+/*
+ * Simple calculator to perform basic arithmetic operations
+ * Uses exception handling to manage invalid inputs and division by zero
+ * Menu driven
+ */
 public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,3 +1,4 @@
+package OOP;
 import java.util.*;
 // Make a simple banking application to perform deposit,withdraw and check balance operations and make it menu driven , allow the user to choose bewtween current and saving account
 class Bank {

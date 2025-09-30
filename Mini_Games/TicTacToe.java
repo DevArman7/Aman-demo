@@ -1,3 +1,4 @@
+package Mini_Games;
 import java.util.InputMismatchException;
 import java.util.*;
 
